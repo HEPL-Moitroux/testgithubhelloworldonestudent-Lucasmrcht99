@@ -10,7 +10,7 @@ namespace Labo1HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Salut c'est Lucas Marchant !");
+            Console.WriteLine("Salut c'est Lucas Marchant et Maxime Hubert !");
             Console.ReadKey();
         }
     }
